@@ -1,0 +1,78 @@
+
+@media screen and (max-width:768px) {
+    .section {
+        width: 751px;
+        height: 775px;
+    }
+    .isjoin{
+        width: 769px;
+    }
+    .header {
+        width: 759px;
+        height: 2000px;
+        background: #004822;
+    }
+    .header-div-div {
+        color: antiquewhite;
+        /* margin: 40px 40px; */
+        display: flex;
+    }
+    .well{
+        width: 333px;
+        margin-top: 46px;
+    }
+    .good{
+        width: 303px;
+        margin-top: 46px;
+    }
+    .work{
+        width: 370px;
+        margin-top: 46px;
+    }
+    .good-bay{
+        width: 370px;
+        margin-top: 46px;
+    }
+    .hello{
+        width: 760px;
+    }
+    .roow {
+        display: flex;
+        margin-top: 60px;
+    }
+    .helo{
+        width: 760px;
+    }
+    .rotet{
+        width: 343px;
+    }
+    .titleee {
+        background: #004822;
+        width: 771px;
+        height: 1383px;
+    }
+    .footeeeer {
+        color: #c0d711;
+        width: 76px;
+        height: 57px;
+    }
+    .goding{
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width:425px) {
+    .section {
+        background-image: url(./img/IMAGE\ \(1\).png);
+        width: 764px;
+        height: 768px;
+    }
+    
+    .isjoin{
+        width: 769px;
+    }
+}
+@media screen and (max-width:375px) {
+    
+}
